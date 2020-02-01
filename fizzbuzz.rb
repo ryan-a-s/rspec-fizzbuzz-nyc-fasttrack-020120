@@ -3,12 +3,12 @@
 
 def fizzbuzz(entered_num)
   if entered_num % 3 == 0 && entered_num % 5 == 0
-    puts "FizzBuzz"
+    return "FizzBuzz"
   elsif entered_num % 3 == 0
-    puts "Fizz"
+    return "Fizz"
   elsif entered_num % 5 == 0
-    puts "Buzz"
+    return "Buzz"
   else 
-    puts nil
+    return nil
   end
 end
