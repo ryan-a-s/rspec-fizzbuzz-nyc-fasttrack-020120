@@ -13,4 +13,4 @@ def fizzbuzz(entered_num)
   end
 end
 
-fizzbuzz(3)
+fizzbuzz(5)
