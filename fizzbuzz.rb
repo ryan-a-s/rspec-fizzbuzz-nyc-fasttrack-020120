@@ -12,5 +12,3 @@ def fizzbuzz(entered_num)
     puts nil
   end
 end
-
-fizzbuzz(15)
